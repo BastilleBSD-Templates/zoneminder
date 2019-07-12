@@ -1,6 +1,8 @@
 # zoneminder
 Bastille Template for Zoneminder CC TV Application
 
+ STATUS:  Testing
+
 The template should install the AMP stack on your Freebsd for you. Now you need to
 manually configure a few things.
 
