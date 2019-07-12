@@ -1,0 +1,4 @@
+cp /usr/local/etc/php.ini-production /usr/local/etc/php.ini
+
+
+

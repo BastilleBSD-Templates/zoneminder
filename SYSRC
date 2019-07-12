@@ -1,0 +1,4 @@
+apache24_enable=YES
+mysql_enable=YES
+zoneminder_enable=YES
+
